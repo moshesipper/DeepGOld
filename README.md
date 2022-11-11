@@ -1,4 +1,4 @@
-# DeepGOld
+# Deep GOld
 
 Code accompanying the paper: [M. Sipper, "Combining Deep Learning with Good Old-Fashioned Machine Learning", *SN Computer Science, 2022*](https://arxiv.org/abs/2207.03757).
 
