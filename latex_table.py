@@ -84,29 +84,4 @@ for alg in srt:
     print(alg['name'], alg['count'])
 
 
-#Dataset & \multicolumn{3}{|c|}{3 networks} & \multicolumn{3}{c}{7 networks}  & \multicolumn{3}{|c}{11 networks}  \\ \hline
-# dataset & Net & Maj & ML & Net & Maj & ML & Net & Maj & ML
 
-# \multirow{10}{*}{Fashion-MNIST} 
-#       & xx.xx\% & xx.xx\% & xx.xx\% (XX) & xx.xx\% & xx.xx\% & xx.xx\% (LR) & xx.xx\% & xx.xx\% & xx.xx\% (LR) \\
-#       & xx.xx\% & xx.xx\% & xx.xx\% (XX) & xx.xx\% & xx.xx\% & xx.xx\% (XX) & xx.xx\% & xx.xx\% & xx.xx\% (XX) \\
-
-
-# fashionmnist, 3, resnext101_32x8d, 91.97%
-# fashionmnist, 7, regnet_x_3_2gf, 92.23%
-# fashionmnist, 11, vgg16_bn, 94.22%
-# fashionmnist, test, 3, majority-vote accuracy, 92.38%
-# fashionmnist, test, 7, majority-vote accuracy, 93.12%
-# fashionmnist, test, 11, majority-vote accuracy, 93.79%
-# fashionmnist, SGDClassifier-optuna, 3, test accuracy score: 91.99%
-# fashionmnist, LGBMClassifier-optuna, 7, test accuracy score: 93.25%
-# fashionmnist, RidgeClassifier-optuna, 11, test accuracy score: 94.40%
-# fashionmnist, 3, resnext101_32x8d, 91.97%
-# fashionmnist, 7, regnet_x_3_2gf, 92.23%
-# fashionmnist, 11, vgg16_bn, 94.22%
-# fashionmnist, test, 3, majority-vote accuracy, 92.38%
-# fashionmnist, test, 7, majority-vote accuracy, 93.12%
-# fashionmnist, test, 11, majority-vote accuracy, 93.79%
-# fashionmnist, SGDClassifier-optuna, 3, test accuracy score: 91.99%
-# fashionmnist, LGBMClassifier-optuna, 7, test accuracy score: 93.25%
-# fashionmnist, RidgeClassifier-optuna, 11, test accuracy score: 94.40%
