@@ -12,7 +12,7 @@ Code accompanying the paper: [M. Sipper, "Combining Deep Learning with Good Old-
 
 If you wish to cite this work:
 ```
-@Article{Sipper2022Hyper,
+@Article{Sipper2022Deep,
 author={Sipper, Moshe},
 title={Combining Deep Learning with Good Old-Fashioned Machine Learning},
 journal={SN Computer Science},
