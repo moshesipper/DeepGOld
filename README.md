@@ -13,12 +13,14 @@ Code accompanying the paper: [M. Sipper, "Combining Deep Learning with Good Old-
 If you wish to cite this work:
 ```
 @Article{Sipper2022Hyper,
-AUTHOR = {Sipper, Moshe},
-TITLE = {High Per Parameter: A Large-Scale Study of Hyperparameter Tuning for Machine Learning Algorithms},
-JOURNAL = {SN Computer Science},
-VOLUME = {},
-YEAR = {2022},
-NUMBER = {},
-ARTICLE-NUMBER = {},
+author={Sipper, Moshe},
+title={Combining Deep Learning with Good Old-Fashioned Machine Learning},
+journal={SN Computer Science},
+year={2022},
+month={Dec},
+day={08},
+volume={4},
+number={1},
+pages={85},
 }
 ```
