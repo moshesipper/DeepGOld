@@ -10,7 +10,9 @@ Code accompanying the paper: [M. Sipper, "Combining Deep Learning with Good Old-
 * `latex_table.py`: Create the main latex table of results for the paper.
 
 
-If you wish to cite this work:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @Article{Sipper2022Deep,
 author={Sipper, Moshe},
